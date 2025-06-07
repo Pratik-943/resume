@@ -1,2 +1,2 @@
 # resume
-My Resume Website
+My Portfolio Website
